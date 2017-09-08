@@ -1,0 +1,1 @@
+from AutoTest.AppAutoTest import *
